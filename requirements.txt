@@ -1,5 +1,4 @@
 transformers==4.4.2
-torch torchvision
 sklearn
 tqdm
 numpy
