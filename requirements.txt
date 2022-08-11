@@ -1,5 +1,5 @@
 transformers==4.4.2
-pytorch==1.7.0
+torch torchvision
 sklearn
 tqdm
 numpy
